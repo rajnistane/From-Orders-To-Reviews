@@ -71,7 +71,7 @@ What the business is doing well
 
 
 
-## 🤖Tech Stack
+## 🛠️Tech Stack
 | Tool       | Purpose         |
 | ---------- | --------------- |
 | Python     | Data Cleaning   |
@@ -85,7 +85,7 @@ What the business is doing well
 
 Product Recommendation System: Build a recommendation system that analyzes customer purchase history and buying patterns to suggest relevant products to improve customer retention and overall sales performance.
 
-## Contact
+## 📱Contact
 Email: rajnistane9@gmail.com
 
 Linkdin: https://www.linkedin.com/in/raj-nistane/
