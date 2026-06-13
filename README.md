@@ -1,7 +1,7 @@
 # From-Orders-To-Reviews
 
 ## 🚛Project Overview
-End-to-end analysis of real transactional Olist departmental-store marketplace dataset. Orders placed on Olist are fulfilled by independent sellers and shipped directed to customers across different location vis Olist's logistic partners. After delivery customers receive a satisfaction survey making the dataset span the entire customer journey.
+End-to-end analysis of real transactional of Olist (a Brazilian e-commerce marketplace) dataset. Orders placed on Olist are fulfilled by independent sellers and shipped directed to customers across different location via Olist's logistic partners. After delivery customers receive a satisfaction survey making the dataset span the entire customer journey.
 
 ## 📌Objective
 To analyse and quantify bottlenecks from purchase to delivery to review, key factors driving revenue and limiting long-term growth.
@@ -46,7 +46,7 @@ unavailability?
 Note: This and further analyses were performed using PostgreSQL and are available in the SQL scripts included in this repository.
 
 ## 💡Business Impact & Recommendations
-Problems
+Key Findings
 - 96.88% of the customers are One-Time buyers while just 3.12% are repeat buyers making the business unsustainable in the long run.
 
 ![image alt](https://github.com/rajnistane/From-Orders-To-Reviews/blob/0749e14187514da29b77f3483878686d78fb5e5c/Screenshot%202026-06-12%20184208.png)
@@ -99,7 +99,7 @@ Duration: Jan, Feb, March, April 2018
 
 ## 📈Future Improvements
 
-Product Recommendation System: Build a recommendation system that analyzes customer purchase history and buying patterns to suggest relevant products to improve customer retention and overall sales performance.
+Product Recommendation System: A product recommendation model that analyzes customer purchase history and buying patterns to suggest relevant products with the goal to improve the 3.12% repeat buyer rate.
 
 ## 📱Contact
 Email: rajnistane9@gmail.com
