@@ -43,21 +43,28 @@ Understanding Dataset ---> Data Cleaning (Pandas) ---> Data Analysis (PostgreSQL
 unavailability?
 
 
-Note: This and further analyses were performed using PostgreSQL and are available in the SQL scripts and project ppt included in this repository.
+Note: This and further analyses were performed using PostgreSQL and are available in the SQL scripts included in this repository.
 
 ## 💡Business Impact & Recommendations
 Problems
 - 96.88% of the customers are One-Time buyers while just 3.12% are repeat buyers making the business unsustainable in the long run.
-![image alt]([Screenshot 2026-06-12 184208.png](https://github.com/rajnistane/From-Orders-To-Reviews/blob/8b4d7f5b607c66a6d79a7812c357601d0dea6693/Screenshot%202026-06-12%20184815.png))
-- 8% of the orders are delivered late making the customers unsatisfied as the avg ratings of late delivered orders comes down to 2.57 compared to 4.29 out of 5 of On Time delivered orders. 
-(Following sellers are the reason for the delayed orders)
-- Around 63% of the revenue comes from just 3 states out of 27 states and about 40% from a single state, signalling a regional risk. 
+
+![image alt](https://github.com/rajnistane/From-Orders-To-Reviews/blob/0749e14187514da29b77f3483878686d78fb5e5c/Screenshot%202026-06-12%20184208.png)
+- 8% of the orders are delivered late making the customers unsatisfied as the avg ratings of late delivered orders comes down to 2.57 compared to 4.29 out of 5 of On Time delivered orders.
+  
+![image alt](https://github.com/rajnistane/From-Orders-To-Reviews/blob/8b4d7f5b607c66a6d79a7812c357601d0dea6693/Screenshot%202026-06-12%20184815.png)
+![image alt](https://github.com/rajnistane/From-Orders-To-Reviews/blob/0749e14187514da29b77f3483878686d78fb5e5c/Screenshot%202026-06-12%20184611.png)
+- Around 63% of the revenue comes from just 3 states out of 27 states and about 40% from a single state, signalling a regional risk.
+
+![image alt](https://github.com/rajnistane/From-Orders-To-Reviews/blob/0749e14187514da29b77f3483878686d78fb5e5c/Screenshot%202026-06-12%20185143.png)
 - 5 of 71 product categories drive 40% of revenue, making the low rated categories go unaddressed.
+  
+![image alt](https://github.com/rajnistane/From-Orders-To-Reviews/blob/0749e14187514da29b77f3483878686d78fb5e5c/Screenshot%202026-06-13%20103319.png)
 
 
 Recommendations
 - Improving customer retention should be the first priority post-purchase engagement and reducing friction for returning customers. 
-- Sellers with the highest late delivery rates should be addressed through performance monitoring to improve delivery efficiency in order to increase the rating in turn increasing the revenue.
+- Sellers with the highest late delivery rates should be addressed through performance monitoring to improve delivery efficiency in order to increase the rating in turn increasing the revenue. [Sellers with worst on time delivery rate](https://github.com/rajnistane/From-Orders-To-Reviews/blob/0749e14187514da29b77f3483878686d78fb5e5c/Screenshot%202026-06-12%20184941.png)
 - The company must consider strengthening its presence in multiple states along with the top performing states by revenue to scale the business and decrease its regional dependency.
 - Low rated product categories should be improved to drive more customers and diversify revenue beyond current top states.
 
@@ -69,6 +76,14 @@ What the business is doing well
 - Customers rate their experience at an average of 4.09 out of 5, indicating the majority of buyers are satisfied with their purchases.
 - 97.02% of orders are successfully delivered, with a cancellation rate and unavailable orders adding to just 1.24% of total orders placed reflecting reliable order fulfillment. 
 - The business operates across all 27 Brazilian states, showing genuine national reach.
+
+## PowerBI Dashboard
+Entire Duration (September 2016 - October 2018)
+
+![image alt](https://github.com/rajnistane/From-Orders-To-Reviews/blob/0749e14187514da29b77f3483878686d78fb5e5c/Screenshot%202026-06-13%20160153.png)
+Duration: Jan, Feb, March, April 2018
+
+![image alt](https://github.com/rajnistane/From-Orders-To-Reviews/blob/0749e14187514da29b77f3483878686d78fb5e5c/Screenshot%202026-06-13%20160544.png)
 
 
 
