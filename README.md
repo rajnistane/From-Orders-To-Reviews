@@ -77,7 +77,7 @@ What the business is doing well
 - 97.02% of orders are successfully delivered, with a cancellation rate and unavailable orders adding to just 1.24% of total orders placed reflecting reliable order fulfillment. 
 - The business operates across all 27 Brazilian states, showing genuine national reach.
 
-## PowerBI Dashboard
+## 📊PowerBI Dashboard
 Entire Duration (September 2016 - October 2018)
 
 ![image alt](https://github.com/rajnistane/From-Orders-To-Reviews/blob/0749e14187514da29b77f3483878686d78fb5e5c/Screenshot%202026-06-13%20160153.png)
