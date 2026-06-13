@@ -48,6 +48,7 @@ Note: This and further analyses were performed using PostgreSQL and are availabl
 ## 💡Business Impact & Recommendations
 Problems
 - 96.88% of the customers are One-Time buyers while just 3.12% are repeat buyers making the business unsustainable in the long run.
+![image alt](Screenshot 2026-06-12 184208.png)
 - 8% of the orders are delivered late making the customers unsatisfied as the avg ratings of late delivered orders comes down to 2.57 compared to 4.29 out of 5 of On Time delivered orders. 
 (Following sellers are the reason for the delayed orders)
 - Around 63% of the revenue comes from just 3 states out of 27 states and about 40% from a single state, signalling a regional risk. 
